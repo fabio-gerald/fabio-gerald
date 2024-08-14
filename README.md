@@ -1,5 +1,7 @@
  Hi I am Fabian Amobi Echezona gerald
+ 
 Data Scientist | Analytics Expert | Machine Learning Expert|Database Administrator|AI Enthusiast| Physicist
+
  I am a seasoned and certified data scientist, adept at leveraging data visualization tools, machine learning algorithms and model deployment techniques to deliver impactful insights.
  Proven expertise in web scraping and data-driven decision-making. Employs analytical skills to solve complex problems and drive significant business outcomes.
  Committed to continuous learning and staying abreast of the latest advancements in the field.
